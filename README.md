@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá! Me chamo Charles Lima 👋
 
-<!--
-**CharlesLimaFilho/CharlesLimaFilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou um estudante de graduação em Engenharia de Computação no IFCE - Fortaleza, sou uma pessoa dedicada à estudar, descobrir e inovar, sempre buscando melhorar meus conhecimentos.
 
-Here are some ideas to get you started:
+Sempre fui uma pessoa interessada em tecnologia e como ela pode revolucionar o mundo, com o ingresso no IFCE, estou tendo a oportunidade de ver um mundo maior e mais intrigante à ser explorado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tecnologias utilizadas
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" heigth="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" heigth="40"/>
+
+<div>
+  <a href="https://github.com/CharlesLimaFilho">
+  <img loading="lazy" heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?CharlesLimaFilho&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" heigth="180em" src="https://github-readme-stats.vercel.app/api?CharlesLimaFilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
+## Contatos 
+
+<div>
+  <a href = "mailto:contato@CharlesLimaFilho"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
