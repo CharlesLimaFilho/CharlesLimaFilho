@@ -20,5 +20,5 @@ Sempre fui uma pessoa interessada em tecnologia e como ela pode revolucionar o m
 ## Contatos 
 
 <div>
-  <a href = "mailto:charles.lima.filho17@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:charles.lima.filho17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
