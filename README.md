@@ -2,7 +2,7 @@
 
 Eu sou um estudante de graduação em Engenharia de Computação no IFCE - Fortaleza, sou uma pessoa dedicada à estudar, descobrir e inovar, sempre buscando melhorar meus conhecimentos.
 
-Sempre fui uma pessoa interessada em tecnologia e como ela pode revolucionar o mundo, com o ingresso no IFCE, estou tendo a oportunidade de ver um mundo maior e mais intrigante à ser explorado.
+Sempre fui uma pessoa interessada em tecnologia e como ela pode revolucionar o mundo, com o ingresso no IFCE, estou tendo a oportunidade de ver um mundo maior e mais intrigante a ser explorado.
 
 
 ## Tecnologias utilizadas
