@@ -10,7 +10,7 @@ Sempre fui uma pessoa interessada em tecnologia e como ela pode revolucionar o m
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" heigth="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" heigth="40"/>
 
 <div align="center">
-  <img width="42%" loading="lazy" heigth="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesLimaFilho&layout=compact&langs_count=7&theme=dracula"/> 
+  <img width="42%" loading="lazy" heigth="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesLimaFilho&layout=compact&langs_count=7&theme=dracula"/> 
   <img width="56%" loading="lazy" heigth="180px" src="https://github-readme-stats.vercel.app/api?username=CharlesLimaFilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 </div>
 
