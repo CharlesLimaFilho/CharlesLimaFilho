@@ -11,7 +11,7 @@ Sempre fui uma pessoa interessada em tecnologia e como ela pode revolucionar o m
 
 <div align="center">
   <img width="42%" loading="lazy" heigth="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesLimaFilho&layout=compact&langs_count=7&theme=dracula"/> 
-  <img width="53%" loading="lazy" heigth="180px" src="https://github-readme-stats.vercel.app/api?username=CharlesLimaFilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <img width="55%" loading="lazy" heigth="180px" src="https://github-readme-stats.vercel.app/api?username=CharlesLimaFilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 </div>
 
 
